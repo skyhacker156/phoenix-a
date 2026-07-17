@@ -20,9 +20,7 @@ No production implementation is included in this repository.
 
 ## Repository Structure
 
-/docs
-/specs
-/examples
+
 /research
 
 ## License
